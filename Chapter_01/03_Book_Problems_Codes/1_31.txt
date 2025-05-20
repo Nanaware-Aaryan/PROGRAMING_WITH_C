@@ -1,0 +1,3 @@
+Determine, as best you can, the purpose of each of the following C programs. Identify all variables within each 
+program. Identify all input and output statements, all assignment statements, and any other special features that 
+you recognize. 
